@@ -14,3 +14,11 @@ Trend and possible prediction of the TESLA stock with data from 2010-2021 using 
 3. Created a Machine Learning model to predict the price of the stock during the period and for after too. 
 4. The dataset, was divided in test and train data using the scaler and reshaping it to get the model prediction for the period of time and the following. 
 5. FINALLY, the model predicted 80% of the trend and worked for the most part, but it crashes before the end of the dataset time span.
+
+## Data source
+- [Tesla stock data from 2010 to 2020](https://www.kaggle.com/datasets/timoboz/tesla-stock-data-from-2010-to-2020)
+
+## Technologies
+1. Python
+2. Jupyter notebook
+3. Excel
