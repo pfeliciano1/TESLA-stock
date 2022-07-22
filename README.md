@@ -1,14 +1,14 @@
-## TESLA Stock trend & price prediction
+# TESLA Stock trend & price prediction
 
-# Table of Contents
+## Table of Contents
 - TESLA dataset from Kaggle
 - Jupyter notebook with trend and charts
 - Jupyter notebook with prediction model and chart with real trend and possible prediction
 
-# Project desription
+## Project desription
 Trend and possible prediction of the TESLA stock with data from 2010-2021 using a Machine Learning model. 
 
-# Process
+## Process
 1. The dataset was downloaded from Kaggle. 
 2. The dataset was uploaded to a Jupyter notebook for EDA process and the creation of subplots by type (Open, High, Low, Close of the ticker value) and the possible trend of the TSLA stock value during the 10+ years. 
 3. Created a Machine Learning model to predict the price of the stock during the period and for after too. 
