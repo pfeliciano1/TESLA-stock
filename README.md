@@ -5,7 +5,7 @@
 - Jupyter notebook with trend and charts
 - Jupyter notebook with prediction model and chart with real trend and possible prediction
 
-## Project desription
+## Project description
 Trend and possible prediction of the TESLA stock with data from 2010-2021 using a Machine Learning model. 
 
 ## Process
